@@ -1,0 +1,24 @@
+Nome: Ra
+Idade: 29
+Altura: 179cm
+Peso: 80kg
+carro: tenho
+
+Nome: Os
+Idade: 19
+Altura: 158
+Peso: 60kg
+carro: nao tenho
+
+Nome: Oi
+Idade: 90
+Altura: 170
+Peso: 80
+carro: sim
+
+Nome: aLi
+Idade: 89
+Altura: 1.87
+Peso: 90
+Carro: sim
+
