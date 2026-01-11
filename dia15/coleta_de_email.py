@@ -1,7 +1,7 @@
 import requests
 import re
 
-url = "https://unisanta.br/"
+url = "https://site.com"
 
 headers = {
     "User-Agent": "Mozilla/5.0"
