@@ -1,7 +1,7 @@
 import os
 import random
 
-pasta = "/home/kali/PASTA"
+pasta = "/home/"
 arquivos = os.listdir(pasta)
 
 for arquivo in arquivos:
