@@ -1,6 +1,6 @@
 import requests
 
-url = "https://pt.wikipedia.org/wiki/Pato"
+url = "https://site.com"
 
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
