@@ -27,4 +27,4 @@ def scan_portas(ip):
             print(f"❌ Porta {porta} fechada")
 
 # TESTE — use seu próprio IP
-scan_portas("127.0.0.1")
+scan_portas("")
