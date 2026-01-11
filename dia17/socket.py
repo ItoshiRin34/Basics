@@ -1,6 +1,6 @@
 import socket
 
-ip = "127.0.0.1"
+ip = "1"
 porta = 80
 
 sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
