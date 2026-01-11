@@ -1,6 +1,6 @@
 import socket
 
-ip = "127.0.0.1"   # localhost (sua própria máquina)
+ip = "1"   # localhost (sua própria máquina)
 porta = 3306         # exemplo
 
 sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
