@@ -11,7 +11,7 @@ def porta_aberta(ip, porta):
 
 
 # teste
-ip = "127.0.0.1"  # seu próprio PC
+ip =
 porta = 20
 
 if porta_aberta(ip, porta):
